@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints out the alphabet in lowercase except for 'qe'
+ * main - Entry point
  *
- * Return (0)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
