@@ -7,7 +7,6 @@
 int main(void)
 {
 	int p = 48, q = 48, y = 48, x = 48;
-	
 	for (; p < 58; p++)
 	{
 		for (; q < 58; q++)
