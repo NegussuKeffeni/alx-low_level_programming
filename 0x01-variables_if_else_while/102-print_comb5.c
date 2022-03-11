@@ -27,11 +27,7 @@ int main(void)
 						putchar(y);
 						putchar(x);
 					}
-					if (!(p == 57 &&
-						  q == 56 &&
-						  y == 57 &&
-						  x == 57) &&
-						!(p * 10 + q >= y * 10 + x))
+					if (!(p == 57 && q == 56 && y == 57 && x == 57) && !(p * 10 + q >= y * 10 + x))
 					{
 						putchar(',');
 						putchar(' ');
