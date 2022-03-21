@@ -14,7 +14,7 @@ void puts2(char *str)
 	while (str[i] != '\0' || str[i] != '.')
 	{
 		j += 1;
-		if (str[j] == '\0' || str[j] != '.')
+		if (str[j] == '\0' || str[j] == '.')
 		{
 			break;
 		}
