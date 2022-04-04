@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "main.h"
 /**
  * alloc_grid - prints a grid of integers
  * @width: width of the grid
